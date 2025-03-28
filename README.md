@@ -2,4 +2,4 @@
 - 🔭 I’m interested ... in computational biology and biophysics
 - 🌱 I’m currently learning ... about language models.
 - 📫 How to reach me: ...through
-- 📫 How to reach me ... https://rishabjaink.com.
+- 📫 How to reach me ... 
