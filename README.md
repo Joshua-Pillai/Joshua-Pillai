@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Joshua-Pillai
-- 🔭 I’m interested ... in computational biology and biophysics
-- 🌱 I’m currently learning ... about language models.
-- 📫 How to reach me: ...through
-- 📫 How to reach me ... 
+- 🔭 I’m interested in computational biology and biophysics
+- 🌱 I’m currently learning about large language models.
+- 📫 Source data for respective publications have been provided in each repository.
