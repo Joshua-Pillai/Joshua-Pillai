@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Joshua-Pillai
 - 🔭 I’m interested in computational biology and biophysics.
 - 🌱 Correspondence has been described in each individual publication.
-- 📫 Source data for respective publications have been provided in each repository.
+- 📫 Source data for respective publications have been provided in each pinned repository.
